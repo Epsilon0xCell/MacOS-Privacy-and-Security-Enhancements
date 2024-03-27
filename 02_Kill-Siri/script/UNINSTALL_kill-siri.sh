@@ -185,7 +185,7 @@ fi
 
 sleep 1
 
-# -------Delete Local Helper Daemon:--------
+# -------Delete Daemons:--------
 
 echo " "
 echo "--------------------------unload and delete KillSwitch--------------------------"
