@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # MACOS PRIVACY AND SECURITY ENHANCEMENTS
 
 - [introduction](#introduction)
